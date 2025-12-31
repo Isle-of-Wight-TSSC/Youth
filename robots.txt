@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://youth.triumphsportsix.club/sitemap.xml
