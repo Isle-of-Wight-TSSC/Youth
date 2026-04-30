@@ -17,6 +17,12 @@ print_background: false
 
 ## North Norfolk Coastal Run
 
-There are plenty of us younger Triumph owners, and it’s about time we all met in one place, at the same time, together. No excuses – this is going to be a cracking event with lots planned. The campsite has a bar, great facilities and will be full of Triumphs. Hard to beat that! The plan is: ‣ Saturday: Around 100 miles along the fantastic North Norfolk coast. ‣ Sunday: A short 30-mile morning run finishing in Great Yarmouth, from where people can head home if they wish. Youth membership of the TSSC starts from as low as £20.50. We were going to charge an entry fee for this event, but felt it made more sense for people to get TSSC membership instead. After all, this is a great community and we want everyone to be part of it.
+There are plenty of us younger Triumph owners, and it’s about time we all met in one place, at the same time, together. No excuses – this is going to be a cracking event with lots planned. The [campsite](https://forest-park.co.uk) has a bar, great facilities and will be full of Triumphs. Hard to beat that! The plan is:
+
+Saturday: Around 100 miles along the fantastic North Norfolk coast.
+
+Sunday: A short 30-mile morning run finishing in Great Yarmouth, from where people can head home if they wish.
+
+Youth membership of the TSSC starts from as low as £20.50. We were going to charge an entry fee for this event, but felt it made more sense for people to get TSSC membership instead. After all, this is a great community and we want everyone to be part of it.
 
 <iframe src="https://free.timeanddate.com/countdown/i96aulz5/n2478/cf12/cm0/cu2/ct0/cs1/cac000/co1/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/tatTime%20until%20North%20Norfolk%20Coastal%20Run/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2026-05-15T16:00:00" allowtransparency="true" frameborder="0" width="327" height="47"></iframe>
