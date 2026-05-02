@@ -11,7 +11,7 @@ html:
 print_background: false
 ---
 
-# Triumph Sport Six Club Youth
+# Triumph Sports Six Club Youth
 
 ![menubar](/dev/menubar.md)
 
